@@ -40,7 +40,7 @@ The style transfer section takes in the gsplat model along with the mask and a s
 Since styled Gaussians aren't yet usable in the Nerfstudio viewer, I currently tested them with another viser-based viewer.
 
 Use:
-```python simple_viewer.py --ckpt```
+```python simple_viewer.py --ckpt styled_figurines.pt```
 
 ## To test on new scenes/objects/styles:
 
