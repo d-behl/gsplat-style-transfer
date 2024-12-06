@@ -1,0 +1,10 @@
+cgproj
+data
+envs
+lerf_ovs
+outputs
+style-splat
+StyleGaussian
+libs
+*.png
+*.pt
